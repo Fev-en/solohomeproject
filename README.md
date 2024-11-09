@@ -5,6 +5,11 @@ npm install
 npm start
 ```
 
+Live url
+
+https://feven-home-town.netlify.app/
+
+
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
 
